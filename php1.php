@@ -1,3 +1,3 @@
 <?php
 
-echo phpinfo();
+1111111
